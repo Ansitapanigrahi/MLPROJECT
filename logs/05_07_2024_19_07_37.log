@@ -1,0 +1,2 @@
+[2024-05-07 19:07:39,489]26 root - INFO - Entered the data ingestion method or component
+[2024-05-07 19:07:39,492]64 root - ERROR - An unexpected error occurred: cannot unpack non-iterable module object
