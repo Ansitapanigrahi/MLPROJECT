@@ -1,0 +1,2 @@
+[2024-05-14 16:55:09,295]26 root - INFO - Entered the data ingestion method or component
+[2024-05-14 16:55:09,318]62 root - ERROR - Custom Exception: Error occured in python script name [E:\MLPROJECT\venv\src\components\data_ingestion.py] line number [28] error message [[Errno 22] Invalid argument: 'E:\\MLPROJECT\x0benv\\student_performance.csv']

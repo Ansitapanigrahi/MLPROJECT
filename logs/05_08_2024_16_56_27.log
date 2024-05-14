@@ -1,0 +1,3 @@
+[2024-05-08 16:56:28,088]97 werkzeug - WARNING -  * Debugger is active!
+[2024-05-08 16:56:28,098]97 werkzeug - INFO -  * Debugger PIN: 103-452-644
+[2024-05-08 16:56:34,694]97 werkzeug - INFO - 127.0.0.1 - - [08/May/2024 16:56:34] "GET /predictdata HTTP/1.1" 200 -
